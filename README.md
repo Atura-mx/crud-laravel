@@ -16,7 +16,7 @@ Simple example with Laravel, Ajax and Mysql.
 ### Installing
 
 Find database in 
-database/model/
+database/model/at_crud.sql
 
 Install composer
 
@@ -30,7 +30,7 @@ Generate Key
 php artisan key:generate
 ```
 
-Create virtual host and test
+Create virtualhost and test
 
 
 
