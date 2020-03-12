@@ -7,20 +7,31 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About CRUD
+# Example CRUD and Search With Laravel
 
-CREATE
-READ
-UPDATE
-DELETE
+## Create, Read, Update, Delete and Search
 
-and search
+Simple example with Laravel, Ajax and Mysql.
 
-Simple example with Ajax, mysql and Laravel.
+### Installing
 
-find Database in <span style="color:blue">database/model</span>  
+Find database in 
+database/model/
 
-Remember install composer <span style="color:blue">composer install</span> and execute <span style="color:blue">php artisan key:generate</span>
+Install composer
+
+```
+composer install
+```
+
+Generate Key
+
+```
+php artisan key:generate
+```
+
+Create virtual host and test
+
 
 
 
